@@ -92,6 +92,11 @@ class AppAssetNames {
   static String meshNetworkComponents =
       "$imgPath/iot/mesh_net/mesh_network.png";
   static String meshHouse = "$imgPath/iot/mesh_net/mesh_house.png";
+  //IOT vs Preds
+  static String iotPredsMain = "$imgPath/iot/iot_preds/iot_preds.png";
+  static String iotVScps = "$imgPath/iot/iot_preds/iot_vs_cps.png";
+  static String iotVSwsn = "$imgPath/iot/iot_preds/iot_vs_wsn.png";
+  static String iotVSm2m = "$imgPath/iot/iot_preds/m2m_vs_iot.png";
 }
 
 class AppSizes {

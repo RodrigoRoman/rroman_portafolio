@@ -8,6 +8,7 @@ import 'package:news/models/blogData/ai_ml/recurrent_neural_network.dart';
 import 'package:news/models/blogData/flutter/foudations_of_code.dart';
 import 'package:news/models/blogData/flutter/flutter_architecture.dart';
 import 'package:news/models/blogData/iot/ad_hoc_manet.dart';
+import 'package:news/models/blogData/iot/iot_vs_preds.dart';
 import 'package:news/models/blogData/iot/mesh_network.dart';
 
 class BlogPosts {
@@ -21,6 +22,7 @@ class BlogPosts {
     lstmNeuralNet,
     adHocNetworks,
     meshNetwork,
+    iotPreds,
   ];
 
   static List<BlogOverview> get blogOverviews {
